@@ -3,3 +3,16 @@ node_modules
 .tmp
 npm-debug.log
 **/.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/__pycache__/
+**/*.swp
+**/*.bak
+**/*.tmp
+**/*.log
