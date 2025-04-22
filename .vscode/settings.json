@@ -13,10 +13,11 @@
   "editor.tabSize": 2,
   "editor.useTabStops": true,
   "emmet.triggerExpansionOnTab": true,
-  "files.autoSave": "off",
   "terminal.integrated.fontSize": 18,
   "workbench.colorTheme": "LinkedIn Learning Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "notebook.lineNumbers": "on",
+  "files.autoSave": "off",
 }
